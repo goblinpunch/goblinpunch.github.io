@@ -22,8 +22,6 @@ Trogs have not lost their spoken or written languages, and they still remember t
 
 Troglodytes have no special abilities.
 
-![](media/image4.png){width="3.625in" height="3.148571741032371in"}
-
 2.  **Killlian Morlocks**
 
 The most human-looking of the morlocks, killians tend to be stoop-shouldered, pale, and heavy-browed. Since killians are considered the "midpoint" of their race, they tend to be numerous, and most tools and armor are made for their bodily proportions.
