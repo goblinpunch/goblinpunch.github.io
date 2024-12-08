@@ -6,5 +6,5 @@
 
 # Links
 
-[Blog] (goblinpunch.blogspot.com)
+[Blog] (https://goblinpunch.blogspot.com)
 [Bluesky] (https://bsky.app/profile/goblinpunch.bsky.social)
