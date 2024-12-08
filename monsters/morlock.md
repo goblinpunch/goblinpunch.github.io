@@ -1,3 +1,0 @@
-# Morlock
-
-Morlocks live underground.
