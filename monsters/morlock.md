@@ -106,13 +106,13 @@ Anything that threatens to put the players into darkness is a major advantage fo
 
 Morlocks have attacked the surface world several times, with drill castles bursting up at random. Each of these assaults has been successfully repelled by the kingdoms of the surface (although to be fair, disease is a far more effective defender of the surface world).
 
-Psychology
+### Psychology
 
 Morlock psychology is characterized by the love that the commoners have for their nobility. Loyalty has been bred into them. And if you watch a morlock noble interact with her subjects, you'll see a lot of the same behaviors that you'll see in dogs: looking for approval, protectiveness, deference.
 
 Morlocks tend to operate in groups. They aren't hyper-aggressive, and they cooperate well.
 
-Culture
+### Culture
 
 Morlocks care deeply about other morlocks, but they don't mourn the way that we do. They believe that all morlocks go to heaven, so what is there to mourn? They are cannibals. Friends are honored with a feast in their honor. Enemies are ground into mash and fed to grangers.
 
