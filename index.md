@@ -8,4 +8,4 @@
 
 [Blog](https://goblinpunch.blogspot.com/)
 
-[Bluesky](http://bsky.app/profile/goblinpunch.bsky.social/)
+[Bluesky](bsky.app/profile/goblinpunch.bsky.social)
